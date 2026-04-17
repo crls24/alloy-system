@@ -1,4 +1,4 @@
-# Alloy System - Sistema de Gestión Empresarial
+# Alloy System - Sistema de Gestión Empresarial / Grupo #9
 
 Alloy System es una aplicación web full-stack diseñada para fines didácticos y de gestión comercial. Permite administrar de manera eficiente el inventario, el registro de órdenes de clientes y la facturación, asegurando un control preciso del stock y un proceso de cobro fluido.
 
@@ -48,7 +48,7 @@ Para ejecutar este proyecto en tu máquina local, necesitarás tener instalado:
 
 ### Credenciales de prueba por defecto
 
-Es fundamental cambiar o eliminar estos usuarios antes de desplegar el sistema en un entorno real.
+Importante cambiar o eliminar estos usuarios antes de desplegar el sistema en un entorno real.
 
 * **Administrador:** admin / admin
 * **Cajero:** cajero / cajero
